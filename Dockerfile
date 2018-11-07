@@ -2,7 +2,7 @@ FROM debian:stretch
 
 MAINTAINER Mariusz Derela <mariusz.derela@ing.com>
 
-ARG SUPERSET_VERSION=0.24.0
+ARG SUPERSET_VERSION=0.28.1
 
 # Configure environment
 
